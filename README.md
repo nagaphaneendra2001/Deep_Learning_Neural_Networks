@@ -12,4 +12,4 @@ Video Link: https://drive.google.com/file/d/1ywi505FI9hv0NOyhKk0eVrwKjeSKY0BO/vi
 Assignment3:
 
 In the assignment3 folder, there are some python source code files which are the solutions for the questions given in the assignment3. There is also a pdf file which contains all the information about the assignment3 and the screeshots of the outputs.
-Video link: 
+Video link: https://drive.google.com/file/d/1i817PgxNCassx3yamEl3OmS7C1Xz_cfK/view?usp=drive_link
