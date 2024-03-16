@@ -18,8 +18,15 @@ Assignment4 :
 In the assignment4 folder, there are some python source code files which are the solutions for the questions given in the assignment4. There is also a pdf file which contains all the information about the assignment4 and the screeshots of the outputs.
 Video link: https://drive.google.com/file/d/1uD-jR_WW9WBBWfh3ZWGt63XSVAHqc7uO/view?usp=sharing
 
-Assignment5:
-Assignment4 :
-In the assignment4 folder, there are some python source code files which are the solutions for the questions given in the assignment4. There is also a pdf file which contains all the information about the assignment4 and the screeshots of the outputs.
+Assignment5 :
+In the assignment4 folder, there are some python source code files which are the solutions for the questions given in the assignment4. There is also a pdf file which contains all the information about the assignment5 and the screeshots of the outputs.
 Video link: https://drive.google.com/file/d/1lJ7spBI4Al7JZJQLOb-vzroa2-0FAYda/view?usp=sharing
+
+Assignment 6:
+In the assignment6 folder, there are some python source code files which are the solutions for the questions given in the assignment6. There is also a pdf file which contains all the information about the assignment7 and the screeshots of the outputs.
+Video Link: 
+
+Assignment 7:
+In the assignment7 folder, there are some python source code files which are the solutions for the questions given in the assignment7. There is also a pdf file which contains all the information about the assignment7 and the screeshots of the outputs.
+Video Link: 
 
