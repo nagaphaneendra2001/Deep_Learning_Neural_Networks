@@ -24,7 +24,7 @@ Video link: https://drive.google.com/file/d/1lJ7spBI4Al7JZJQLOb-vzroa2-0FAYda/vi
 
 Assignment 6:
 In the assignment6 folder, there are some python source code files which are the solutions for the questions given in the assignment6. There is also a pdf file which contains all the information about the assignment7 and the screeshots of the outputs.
-Video Link: 
+Video Link: https://drive.google.com/file/d/1DeIT69G5TUD40JOt7msUFGE83qXS2Jl2/view?usp=sharing
 
 Assignment 7:
 In the assignment7 folder, there are some python source code files which are the solutions for the questions given in the assignment7. There is also a pdf file which contains all the information about the assignment7 and the screeshots of the outputs.
