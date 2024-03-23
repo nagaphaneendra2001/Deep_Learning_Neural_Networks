@@ -33,5 +33,5 @@ Video Link: https://drive.google.com/file/d/1rlfyYu1UozZV9DTrwMGVfWgaVommlRi4/vi
 Assignment 8:
 In the assignment8 folder, there are some python source code files which are the solutions for the questions given in the assignment8. There is also a pdf file which contains all the information about the assignment8 and the screeshots of the outputs.
 
-Video Link: 
+Video Link: https://drive.google.com/file/d/1jrhyZzuKQD6hZzY6im0rGMchQ3ZYziVS/view?usp=sharing
 
