@@ -30,3 +30,8 @@ Assignment 7:
 In the assignment7 folder, there are some python source code files which are the solutions for the questions given in the assignment7. There is also a pdf file which contains all the information about the assignment7 and the screeshots of the outputs.
 Video Link: https://drive.google.com/file/d/1rlfyYu1UozZV9DTrwMGVfWgaVommlRi4/view?usp=sharing
 
+Assignment 8:
+In the assignment8 folder, there are some python source code files which are the solutions for the questions given in the assignment8. There is also a pdf file which contains all the information about the assignment8 and the screeshots of the outputs.
+
+Video Link: 
+
