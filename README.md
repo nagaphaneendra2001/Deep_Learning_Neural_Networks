@@ -36,5 +36,5 @@ Video Link: https://drive.google.com/file/d/1jrhyZzuKQD6hZzY6im0rGMchQ3ZYziVS/vi
 
 Assignment 9:
 In the assignment9 folder, there are some python source code files(jupyter) which are the solutions for the questions given in the assignment9. There is also a pdf file which contains all the information about the assignment9 and the screeshots of the outputs.
-Video Link: 
+Video Link: https://drive.google.com/file/d/1S7wsy9ztjH2QG3nwCRrDhkCFTgKAWSvt/view?usp=sharing 
 
