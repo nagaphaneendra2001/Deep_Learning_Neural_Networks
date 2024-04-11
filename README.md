@@ -38,3 +38,6 @@ Assignment 9:
 In the assignment9 folder, there are some python source code files(jupyter) which are the solutions for the questions given in the assignment9. There is also a pdf file which contains all the information about the assignment9 and the screeshots of the outputs.
 Video Link: https://drive.google.com/file/d/1S7wsy9ztjH2QG3nwCRrDhkCFTgKAWSvt/view?usp=sharing 
 
+Programming Quiz:
+video link: https://drive.google.com/file/d/15xitbw3n6DlpWTt23I05C1Y8k6T-f9hk/view?usp=sharing
+
